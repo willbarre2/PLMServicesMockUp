@@ -1,0 +1,18 @@
+{
+    "112" :[
+        {
+            "ip": "147.210.16.22",
+            "description": "smail",
+            "fqdn": "smail.math.u-bordeaux1.fr"
+        },
+        {
+            "ip": "147.210.17.12",
+            "description": "sambak",
+            "fqdn": "sambak.math.u-bordeaux1.fr"
+        }
+    ],
+    "5251": [],
+    "111": []
+
+}
+

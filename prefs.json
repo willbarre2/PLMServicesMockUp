@@ -1,0 +1,33 @@
+{
+    "lang": "fr",
+    "prefs": {
+        "plmsurvey": false,
+        "webconf": false,
+        "plmlab": true,
+        "wims": false,
+        "codimd": false,
+        "invitation": false,
+        "jetons": false,
+        "indico": false,
+        "initpass": false,
+        "listes": false,
+        "plmkan": false,
+        "mattermost": true,
+        "disque": false,
+        "hebergweb": false,
+        "plmbox": false,
+        "rocketchat": false,
+        "mail": true,
+        "manageaccount": true,
+        "plmlatex": false,
+        "yquem": false,
+        "plmshift": false,
+        "vpn": false
+    },
+    "activated": {
+        "disque": false,
+        "mail": true,
+        "yquem": false,
+        "vpn": true
+    } 
+}

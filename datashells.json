@@ -1,0 +1,9 @@
+[{
+    "loginShell":"/bin/false"
+    }, {
+    "loginShell":"/bin/bash"
+    }, {
+    "loginShell":"/bin/csh"
+    }, {
+    "loginShell":"/bin/zsh"
+}]

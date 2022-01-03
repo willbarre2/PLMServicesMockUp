@@ -1,0 +1,58 @@
+{
+    "anonymous": false,
+    "admin": true,
+   "url": "/auth/plm/logout",
+    "familyName": "Depouilly",
+    "givenName": "Philippe",
+    "login": "depouill",
+    "contactEmail": "Philippe.Depouilly@math.u-bordeaux.fr",
+    "plmEmail": "Philippe.Depouilly@math.cnrs.fr",
+    "otherEmails": ["philippe.depouilly@u-bordeaux.fr", "Philippe.Depouilly@math.u-bordeaux.fr", "test1" ,"test2"],
+    "shell": "/bin/bash",
+    "expired": false,
+   "labs": [{
+        "name": "umr6093",
+        "desc": "LAREMA - Laboratoire Angevin de Mathématiques",
+        "id": 6093,
+        "labId": 1,
+        "primary": false
+    }, {
+        "name": "umr5251",
+        "desc": "Institut de Mathématiques de Bordeaux",
+        "id": 5251,
+        "labId": 136,
+        "primary": true
+    }, {
+        "name": "ins1670",
+        "desc": "Institut National des Sciences Mathématiques et de leurs Interactions - INSMI",
+        "id": 10035,
+        "labId": 173,
+        "primary": false
+    }, {
+        "name": "modcov19",
+        "desc": "Groupe de recherche de Modélisation Covid 2019",
+        "id": 2019,
+        "labId": 281,
+        "primary": false
+    }, {
+        "name": "coordination_modcov19",
+        "desc": "Coordination du groupe de recherche de Modélisation Covid 2019",
+        "id": 2020,
+        "labId": 0,
+        "primary": false
+    }],
+    "entities":{
+        "112":{
+            "description":"test de gestion de branche",
+            "name":"testwilliam"
+        },
+        "111":{
+            "description":"Mathématiciens invités (accès restreint aux services numériques)",
+            "name":"extérieur"
+        },
+        "5251":{
+            "description":"Institut de Mathématiques de Bordeaux",
+            "name":"umr5251"
+        }
+    }
+}

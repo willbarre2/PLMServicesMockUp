@@ -1,0 +1,198 @@
+{
+    "data":[
+        {
+            "familyName": "Barre",
+            "givenName": "William",
+            "login": "williambarre",
+            "contactEmail": "willbarre9@gmail.com",
+            "plmEmail": "William.Barre@math.cnrs.fr",
+            "otherEmails": [],
+            "shell": null,
+            "expired": false,
+            "affectation": 5251,
+            "affectations": [
+                5251,
+                112,
+                8524,
+                8050,
+                6085
+            ],
+            "id": 13084,
+            "workflowTokens": [],
+            "primaryAffectation": {
+                "beginsAt": "06/07/2021",
+                "endsAt": "21/07/2021",
+                "comment": "Intégré par layrisse",
+                "id": 5251
+            },
+            "secondaryAffectations": [
+                {
+                    "beginsAt": "19/11/2021",
+                    "endsAt": "04/12/2021",
+                    "comment": "Intégré par depouill",
+                    "id": 112
+                }
+            ],
+            "vpn": [
+                {
+                  "ip": "147.210.16.9",
+                  "description": "un test",
+                  "fqdn": "sweb.math.u-bordeaux1.fr"
+                },
+                {
+                    "ip": "147.210.132.6",
+                    "description": "un test2",
+                    "fqdn": "sweb.math.u-bordeaux1.fr"
+                },
+                {
+                    "ip": "147.210.144.96",
+                    "description": "un test3",
+                    "fqdn": "sweb.math.u-bordeaux1.fr"
+                }
+            ]
+        },
+        {
+            "familyName": "Doe",
+            "givenName": "John",
+            "login": "depou",
+            "contactEmail": "2pouyi@gmail.com",
+            "plmEmail": "Filou.Depou@math.cnrs.fr",
+            "otherEmails": [],
+            "shell": "/bin/bash",
+            "expired": true,
+            "affectation": 111,
+            "affectations": [
+                112
+            ],
+            "id": 9798,
+            "workflowTokens": [],
+            "primaryAffectation": {
+                    "beginsAt": "16/11/2021",
+                    "endsAt": "05/12/2021",
+                    "comment": "Intégré par depouill2",
+                    "id": 112
+                },
+            "secondaryAffectations": [],
+            "vpn": [
+                {
+                  "ip": "147.210.16.9",
+                  "description": "un test",
+                  "fqdn": "sweb.math.u-bordeaux1.fr"
+                },
+                {
+                    "ip": "147.210.132.6",
+                    "description": "un test2",
+                    "fqdn": "sweb.math.u-bordeaux1.fr"
+                },
+                {
+                    "ip": "147.210.144.96",
+                    "description": "un test3",
+                    "fqdn": "sweb.math.u-bordeaux1.fr"
+                }
+            ]
+        },
+        {
+            "familyName": "Barre2",
+            "givenName": "William2",
+            "login": "williambarre2",
+            "contactEmail": "willbarre9@gmail.com2",
+            "plmEmail": "William.Barre@math.cnrs.fr2",
+            "otherEmails": [],
+            "shell": null,
+            "expired": false,
+            "affectation": 5251,
+            "affectations": [
+                5251,
+                112
+            ],
+            "id": 13084,
+            "workflowTokens": [],
+            "primaryAffectation": {
+                "beginsAt": "08/07/2021",
+                "endsAt": "26/07/2021",
+                "comment": "Intégré par layrisse",
+                "id": 5251,
+                "to": 112
+            },
+            "secondaryAffectations": [
+                {
+                    "beginsAt": "12/11/2021",
+                    "endsAt": "16/12/2021",
+                    "comment": "Intégré par depouill",
+                    "id": 112
+                }
+            ],
+            "vpn": []
+        },
+        {
+            "familyName": "Doe2",
+            "givenName": "John2",
+            "login": "depou2",
+            "contactEmail": "2pouyi@gmail.com2",
+            "plmEmail": "Filou.Depou@math.cnrs.fr2",
+            "otherEmails": [],
+            "shell": "/bin/bash",
+            "expired": false,
+            "affectation": 111,
+            "affectations": [
+                111,
+                112
+            ],
+            "id": 9798,
+            "workflowTokens": [],
+            "primaryAffectation": {
+                "beginsAt": "30/10/2016",
+                "endsAt": "16/11/2016",
+                "comment": "Intégré par depouill2",
+                "id": 111
+            },
+            "secondaryAffectations": [
+                {
+                    "beginsAt": "13/07/2021",
+                    "endsAt": "21/07/2021",
+                    "comment": "Intégré par layrisse2",
+                    "id": 5251
+                },
+                {
+                    "beginsAt": "02/11/2021",
+                    "endsAt": "16/12/2021",
+                    "comment": "Intégré par depouill2",
+                    "id": 112
+                }
+            ],
+            "vpn": []
+        },
+        {
+            "familyName": "l'Enchanteur",
+            "givenName": "Merlin",
+            "login": "Merlin_l'Enchanteur",
+            "contactEmail": "Merlu@gmail.com",
+            "plmEmail": "Merlin@math.cnrs.fr",
+            "otherEmails": [],
+            "shell": "/bin/bash",
+            "expired": false,
+            "affectation": 111,
+            "affectations": [
+                5251,
+                112
+            ],
+            "id": 9798,
+            "workflowTokens": [],
+            "primaryAffectation": {
+                "beginsAt": "11/07/2021",
+                "endsAt": "21/07/2021",
+                "comment": "Intégré par layrisse2",
+                "id": 5251
+            },
+            "secondaryAffectations": [
+                {
+                    "beginsAt": "05/11/2021",
+                    "endsAt": "09/12/2021",
+                    "comment": "Intégré par depouill2",
+                    "id": 112
+                }
+            ],
+            "vpn": []
+        }
+    ]
+}

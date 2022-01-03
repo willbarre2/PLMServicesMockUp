@@ -1,0 +1,311 @@
+{
+    "8524": {
+        "entity": "Laboratoire Paul Painlevé - Lille"
+    },
+    "8050": {
+        "entity": "Laboratoire d'Analyse et de Mathématiques Appliquées - Marne la Vallée"
+    },
+    "6085": {
+        "entity": "Laboratoire de mathématiques Raphaël Salem - Rouen"
+    },
+    "7640": {
+        "entity": "Centre de mathématiques Laurent Schwartz de l'Ecole polytechnique - Palaiseau"
+    },
+    "8628": {
+        "entity": "Département de Mathématiques d'Orsay"
+    },
+    "7539": {
+        "entity": "LAGA - Paris 13"
+    },
+    "7534": {
+        "entity": "Ceremade - Paris Dauphine"
+    },
+    "5582": {
+        "entity": "Institut Fourier, Grenoble"
+    },
+    "839": {
+        "entity": "Institut Henri Poincare - Paris"
+    },
+    "6628": {
+        "entity": "MAPMO - Orleans"
+    },
+    "7586": {
+        "entity": "IMJ - Paris Centre"
+    },
+    "7641": {
+        "entity": "CMAP Ecole Polytechnique - Palaiseau"
+    },
+    "8100": {
+        "entity": "Laboratoire de Mathematique de l'Université Versailles St-Quentin-en-Yvelines"
+    },
+    "6140": {
+        "entity": "LAMFA - Amiens"
+    },
+    "6629": {
+        "entity": "Laboratoire Jean Leray - Nantes"
+    },
+    "6625": {
+        "entity": "Institut de Recherche Mathematique de Rennes"
+    },
+    "6093": {
+        "entity": "LAREMA - Laboratoire Angevin de Mathématiques"
+    },
+    "6205": {
+        "entity": "Laboratoire de Mathematiques de Brest"
+    },
+    "8553": {
+        "entity": "Ecole normale superieure Ulm - Paris"
+    },
+    "6620": {
+        "entity": "Laboratoire de Mathématiques Blaise Pascal - Université Clermont Auvergne "
+    },
+    "5208": {
+        "entity": "Institut Camille Jordan - Université de Lyon"
+    },
+    "7501": {
+        "entity": "IRMA - Strasbourg"
+    },
+    "6083": {
+        "entity": "Laboratoire de Mathématiques et Physique Théorique - Tours"
+    },
+    "6139": {
+        "entity": "lMNO Caen"
+    },
+    "8088": {
+        "entity": "Laboratoire Analyse, Geometrie et Modelisation - Cergy-Pontoise"
+    },
+    "8536": {
+        "entity": "Centre Borelli"
+    },
+    "3885": {
+        "entity": "LMAM,  Bretagne Sud - Vannes"
+    },
+    "822": {
+        "entity": "CIRM Luminy - Marseille"
+    },
+    "2802": {
+        "entity": "Institut de Mathématiques de Toulouse"
+    },
+    "7599": {
+        "entity": "Laboratoire de Probabilités, Statistique et Modélisation - Paris Centre"
+    },
+    "5669": {
+        "entity": "UMPA - ENS Lyon"
+    },
+    "2201": {
+        "entity": "Observatoire de Paris"
+    },
+    "7598": {
+        "entity": "Laboratoire Jacques-Louis Lions - Paris Centre"
+    },
+    "5127": {
+        "entity": "Laboratoire de Mathématiques (LAMA) - Université de Savoie"
+    },
+    "5149": {
+        "entity": "Institut Montpelliérain Alexander Grothendieck"
+    },
+    "6172": {
+        "entity": "XLIM - Département Mathématiques Informatique - Limoges"
+    },
+    "6621": {
+        "entity": "Laboratoire J.A. Dieudonne - Nice"
+    },
+    "5584": {
+        "entity": "Institut de Mathématiques de Bourgogne"
+    },
+    "5251": {
+        "entity": "Institut de Mathématiques de Bordeaux"
+    },
+    "6086": {
+        "entity": "Laboratoire de Mathematiques et Applications - Poitiers"
+    },
+    "6623": {
+        "entity": "Laboratoire de Mathematiques de Besancon"
+    },
+    "7122": {
+        "entity": "Laboratoire de Mathematiques - Metz"
+    },
+    "2956": {
+        "entity": "Fédération de recherche Mathématique du Nord Pas-de-Calais"
+    },
+    "5224": {
+        "entity": "Laboratoire Jean Kuntzmann - Grenoble"
+    },
+    "8049": {
+        "entity": "Institut Gaspard-Monge - Marne la Vallée"
+    },
+    "2754": {
+        "entity": "Utilisateurs hors communauté (accès restreint aux services numériques)"
+    },
+    "7502": {
+        "entity": "Institut de Mathematiques Elie Cartan de Lorrraine - Metz-Nancy"
+    },
+    "3263": {
+        "entity": "Université du Maine, Département de Mathématiques - Le Mans"
+    },
+    "3165": {
+        "entity": "Mathématiques, Image et Application - Université La Rochelle"
+    },
+    "8626": {
+        "entity": "Laboratoire de Physique Théorique et Modèles Statistiques - Orsay"
+    },
+    "8145": {
+        "entity": "MAP5 - Université Paris Descartes"
+    },
+    "3335": {
+        "entity": "Fédération de Recherche Normandie-Mathématiques"
+    },
+    "5142": {
+        "entity": "UPPA, Laboratoire de Mathématique Appliquées de Pau"
+    },
+    "3399": {
+        "entity": "A vérifier - Fédération de Recherche ARC Mathématiques - Champagne-Ardenne Picardie"
+    },
+    "3409": {
+        "entity": "Laboratoire de Mathématiques et Modélisation d'Évry"
+    },
+    "3454": {
+        "entity": "Modelisation aleatoire (MODAL'X) - Nanterre"
+    },
+    "2151": {
+        "entity": "Laboratoire de mathématiques - Avignon"
+    },
+    "3893": {
+        "entity": "Géométrie Algébrique et Applications à la Théorie de l'Information - Université de la Polynésie Française"
+    },
+    "3458": {
+        "entity": "Agence pour les Mathématiques en Interaction avec l'Entreprise et la Société"
+    },
+    "2306": {
+        "entity": "Institut de Physique Théorique de Saclay"
+    },
+    "8089": {
+        "entity": "Laboratoire de Physique Théorique et Modélisation - Cergy-Pontoise"
+    },
+    "2962": {
+        "entity": "Federation de recherche Mathematique des Pays de Loire"
+    },
+    "10002": {
+        "entity": "Institut des Hautes Etudes Scientifiques"
+    },
+    "10003": {
+        "entity": "Modélisation mathématique et numérique - CNAM Paris"
+    },
+    "10004": {
+        "entity": "Fédération de recherche Bézout"
+    },
+    "10005": {
+        "entity": "Fédération de Mathématiques de CentraleSupélec"
+    },
+    "10007": {
+        "entity": "Institut de Mathématiques de Toulon"
+    },
+    "10008": {
+        "entity": "Laboratoire de Mathématiques, Informatique et Applications LMIA - Mulhouse"
+    },
+    "10009": {
+        "entity": "Propagation des ondes : étude mathématique et simulation (POEMS) ENSTA - Palaiseau"
+    },
+    "10010": {
+        "entity": "Centre de Physique Théorique de l’Ecole Polytechnique - Palaiseau"
+    },
+    "10011": {
+        "entity": "IRIF - Paris"
+    },
+    "10012": {
+        "entity": "Institut de Mathématiques de Marseille (I2M)"
+    },
+    "10013": {
+        "entity": "Mathdoc - Grenoble"
+    },
+    "111": {
+        "entity": "Mathématiciens invités (accès restreint aux services numériques)"
+    },
+    "2755": {
+        "entity": "Mathématiciens hors communauté (accès complet à la documentation électronique)"
+    },
+    "10014": {
+        "entity": "Mathématiques de la décision et statistique (UMR TSE-R) - Toulouse "
+    },
+    "10015": {
+        "entity": "TGIR Huma-Num"
+    },
+    "10016": {
+        "entity": "Laboratoire Fibonacci - Pise"
+    },
+    "10017": {
+        "entity": "Institut de Mécanique et d'Ingénierie – Bordeaux"
+    },
+    "10018": {
+        "entity": "Laboratoire Bordelais de Recherche en Informatique"
+    },
+    "10019": {
+        "entity": "Fédération de réseaux d’administrateurs systèmes \u0026 réseaux de l'enseignement supérieur/recherche"
+    },
+    "10020": {
+        "entity": "Mathématiques et Informatique Appliquées - AgroParisTech/INRA"
+    },
+    "10022": {
+        "entity": "Laboratoire Biométrie et Biologie Evolutive (LBBE)"
+    },
+    "10024": {
+        "entity": "Grenoble Alpes Recherche-Infrastructure de CAlcul Intensif et de Données (GRICAD)"
+    },
+    "10025": {
+        "entity": "GDRI Ge2MI - Groupement Euro Maghrebin de Mathématiques et leurs Interactions"
+    },
+    "10026": {
+        "entity": "Centre de recherche Mathématiques - Université de Montréal"
+    },
+    "10027": {
+        "entity": "Centre de Recherche en Economie et STatistique"
+    },
+    "10028": {
+        "entity": "Société Francophone de Biologie Théorique"
+    },
+    "10029": {
+        "entity": "Centre d'Analyses et de Mathematiques Sociales"
+    },
+    "10023": {
+        "entity": "Laboratoire Traitement et Communication de l'Information (LTCI) - Paris"
+    },
+    "10030": {
+        "entity": "Institut de Sante Publique, Epidemiologie et Developpement"
+    },
+    "10031": {
+        "entity": "Laboratoire d'Informatique de l'Ecole Polytechnique - Palaiseau"
+    },
+    "10032": {
+        "entity": "SPHERE : Sciences, Philosophie, Histoire - Paris"
+    },
+    "10033": {
+        "entity": "Institut Denis Poisson - Orleans - Tours"
+    },
+    "10034": {
+        "entity": "Laboratoire de Math'ematiques Informatique et Applications - Pointe-a-Pitre"
+    },
+    "10035": {
+        "entity": "Institut National des Sciences Mathématiques et de leurs Interactions - INSMI"
+    },
+    "2019": {
+        "entity": "Groupe de recherche de Modélisation Covid 2019"
+    },
+    "2020": {
+        "entity": "Coordination du groupe de recherche de Modélisation Covid 2019"
+    },
+    "6056": {
+        "entity": "Laboratoire de Mathématiques de Reims"
+    },
+    "10036": {
+        "entity": "INSMI - DAAS"
+    },
+    "10037": {
+        "entity": "Institut des Mathematiques pour la Planete Terre"
+    },
+    "10038": {
+        "entity": "LMI Laboratoire de Mathematiques pour l ingenieur - Valenciennes"
+    },
+    "112": {
+        "entity": "test de gestion de branche"
+    }
+}
